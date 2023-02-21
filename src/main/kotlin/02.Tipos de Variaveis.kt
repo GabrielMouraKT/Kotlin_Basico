@@ -1,6 +1,6 @@
 fun main (){
 
-    /* Define-se nomedavariavel: Tipo = valor
+    /*  Define-se nomedavariavel: Tipo = valor
     Na linguagem Kotlin não é necessario definir o tipo de variavel, exceto quando
     for Byte.
     Kotlin "Sabe" o Tipo de variavel atraves do valor "

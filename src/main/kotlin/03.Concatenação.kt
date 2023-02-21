@@ -1,4 +1,4 @@
-fun main(){
+fun main() {
 
     var nome = "Gabriel"
     var idade= "30"
