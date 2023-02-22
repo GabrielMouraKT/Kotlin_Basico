@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67f8defa-fb17-4bdc-9c56-e2733ccfd163" name="Changes" comment="While">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/09.Estrutura de Repetição While.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/09.Estrutura de Repetição While.kt" afterDir="false" />
+    <list default="true" id="67f8defa-fb17-4bdc-9c56-e2733ccfd163" name="Changes" comment="For">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/10.Estrutura When.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,14 +59,7 @@
       <recent name="C:\Users\Gabriel\IdeaProjects\Kotlin_Basico\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._09_Estrutura_de_Repetição_WhileKt">
-    <configuration name="_05_Operadores_RelacionaisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_05_Operadores_RelacionaisKt" />
-      <module name="Kotlin_Basico" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._10_Estrutura_WhenKt">
     <configuration name="_06_Estrutura_Condicional_if_elseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_06_Estrutura_Condicional_if_elseKt" />
       <module name="Kotlin_Basico" />
@@ -94,13 +88,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_10_Estrutura_WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_Estrutura_WhenKt" />
+      <module name="Kotlin_Basico" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._10_Estrutura_WhenKt" />
         <item itemvalue="Kotlin._09_Estrutura_de_Repetição_WhileKt" />
         <item itemvalue="Kotlin._08_ArraysKt" />
         <item itemvalue="Kotlin._07_Operadores_LógicosKt" />
         <item itemvalue="Kotlin._06_Estrutura_Condicional_if_elseKt" />
-        <item itemvalue="Kotlin._05_Operadores_RelacionaisKt" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677035472917</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="For">
+      <created>1677035774916</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677035774916</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,20 +188,7 @@
     <MESSAGE value="Operadores Logicos" />
     <MESSAGE value="Arrays" />
     <MESSAGE value="While" />
-    <option name="LAST_COMMIT_MESSAGE" value="While" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/09.Estrutura de Repetição While.kt</url>
-          <properties method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="For" />
+    <option name="LAST_COMMIT_MESSAGE" value="For" />
   </component>
 </project>
