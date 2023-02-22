@@ -1,5 +1,7 @@
 # Kotlin_Basico 
 
+Um pouco do basico do Kotlin, aqui coloquei alguns prints dos codigos contidos no projeto. <br>
+
 * Variaveis Mutaveis e Imutaveis<br>
 ![01 Variaveis mutaveis e imutaveis](https://user-images.githubusercontent.com/69040085/220514683-ece144c4-d776-441a-b422-eebd0adf0a94.png)<br>
 * Tipos de variaveis<br>
