@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67f8defa-fb17-4bdc-9c56-e2733ccfd163" name="Changes" comment="Operadores If/Else">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/07.Operadores Lógicos.kt" afterDir="false" />
+    <list default="true" id="67f8defa-fb17-4bdc-9c56-e2733ccfd163" name="Changes" comment="Operadores Logicos">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/08.Arrays.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
       <recent name="C:\Users\Gabriel\IdeaProjects\Kotlin_Basico\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._07_Operadores_LógicosKt">
+  <component name="RunManager" selected="Kotlin._08_ArraysKt">
     <configuration name="_04_Operadores_AritméticosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_04_Operadores_AritméticosKt" />
       <module name="Kotlin_Basico" />
@@ -88,8 +88,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_08_ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_08_ArraysKt" />
+      <module name="Kotlin_Basico" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._08_ArraysKt" />
         <item itemvalue="Kotlin._07_Operadores_LógicosKt" />
         <item itemvalue="Kotlin._06_Estrutura_Condicional_if_elseKt" />
         <item itemvalue="Kotlin._05_Operadores_RelacionaisKt" />
@@ -141,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677032930252</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Operadores Logicos">
+      <created>1677033954287</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677033954287</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -149,6 +164,7 @@
     <MESSAGE value="Operadores Relacionais" />
     <MESSAGE value="Operadores Relacionais2" />
     <MESSAGE value="Operadores If/Else" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operadores If/Else" />
+    <MESSAGE value="Operadores Logicos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operadores Logicos" />
   </component>
 </project>
