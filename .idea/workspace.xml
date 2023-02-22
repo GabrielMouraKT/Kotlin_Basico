@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67f8defa-fb17-4bdc-9c56-e2733ccfd163" name="Changes" comment="Operadores Logicos">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/08.Arrays.kt" afterDir="false" />
+    <list default="true" id="67f8defa-fb17-4bdc-9c56-e2733ccfd163" name="Changes" comment="Arrays">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/09.Estrutura de Repetição While.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +23,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -59,14 +59,7 @@
       <recent name="C:\Users\Gabriel\IdeaProjects\Kotlin_Basico\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._08_ArraysKt">
-    <configuration name="_04_Operadores_AritméticosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_04_Operadores_AritméticosKt" />
-      <module name="Kotlin_Basico" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._09_Estrutura_de_Repetição_WhileKt">
     <configuration name="_05_Operadores_RelacionaisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_05_Operadores_RelacionaisKt" />
       <module name="Kotlin_Basico" />
@@ -95,13 +88,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_09_Estrutura_de_Repetição_WhileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_09_Estrutura_de_Repetição_WhileKt" />
+      <module name="Kotlin_Basico" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._09_Estrutura_de_Repetição_WhileKt" />
         <item itemvalue="Kotlin._08_ArraysKt" />
         <item itemvalue="Kotlin._07_Operadores_LógicosKt" />
         <item itemvalue="Kotlin._06_Estrutura_Condicional_if_elseKt" />
         <item itemvalue="Kotlin._05_Operadores_RelacionaisKt" />
-        <item itemvalue="Kotlin._04_Operadores_AritméticosKt" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677033954287</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Arrays">
+      <created>1677034663002</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677034663002</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,6 +172,7 @@
     <MESSAGE value="Operadores Relacionais2" />
     <MESSAGE value="Operadores If/Else" />
     <MESSAGE value="Operadores Logicos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operadores Logicos" />
+    <MESSAGE value="Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
   </component>
 </project>
