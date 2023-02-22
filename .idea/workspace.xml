@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67f8defa-fb17-4bdc-9c56-e2733ccfd163" name="Changes" comment="For">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/10.Estrutura When.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/10.Estrutura de Repetição For.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/09.Estrutura de Repetição While.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/09.Estrutura de Repetição While.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10.Estrutura When.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/11.Estrutura When.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,14 +60,7 @@
       <recent name="C:\Users\Gabriel\IdeaProjects\Kotlin_Basico\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._10_Estrutura_WhenKt">
-    <configuration name="_06_Estrutura_Condicional_if_elseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_06_Estrutura_Condicional_if_elseKt" />
-      <module name="Kotlin_Basico" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._09_Estrutura_de_Repetição_WhileKt">
     <configuration name="_07_Operadores_LógicosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_07_Operadores_LógicosKt" />
       <module name="Kotlin_Basico" />
@@ -88,8 +82,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10_Estrutura_WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10_Estrutura_WhenKt" />
+    <configuration name="_10_Estrutura_de_Repetição_ForKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_Estrutura_de_Repetição_ForKt" />
+      <module name="Kotlin_Basico" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_11_Estrutura_WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_Estrutura_WhenKt" />
       <module name="Kotlin_Basico" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._10_Estrutura_WhenKt" />
         <item itemvalue="Kotlin._09_Estrutura_de_Repetição_WhileKt" />
+        <item itemvalue="Kotlin._11_Estrutura_WhenKt" />
+        <item itemvalue="Kotlin._10_Estrutura_de_Repetição_ForKt" />
         <item itemvalue="Kotlin._08_ArraysKt" />
         <item itemvalue="Kotlin._07_Operadores_LógicosKt" />
-        <item itemvalue="Kotlin._06_Estrutura_Condicional_if_elseKt" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677035774916</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="For">
+      <created>1677036359352</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677036359352</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
